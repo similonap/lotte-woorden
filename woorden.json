@@ -1,0 +1,178 @@
+{
+  "words": [
+    /* Groep 1: De Ruimte */
+    { "word": "Planeet", "group_id": 1 }, { "word": "Ster", "group_id": 1 }, { "word": "Komeet", "group_id": 1 }, { "word": "Maan", "group_id": 1 }, { "word": "Zon", "group_id": 1 },
+    { "word": "Raket", "group_id": 1 }, { "word": "Astronaut", "group_id": 1 }, { "word": "Melkweg", "group_id": 1 }, { "word": "Telescoop", "group_id": 1 }, { "word": "Heelal", "group_id": 1 },
+    { "word": "Satelliet", "group_id": 1 }, { "word": "Meteoriet", "group_id": 1 }, { "word": "Zwaartekracht", "group_id": 1 }, { "word": "Planetoïde", "group_id": 1 }, { "word": "Kosmos", "group_id": 1 },
+    { "word": "Baan", "group_id": 1 }, { "word": "Zonsverduistering", "group_id": 1 }, { "word": "Lichtjaar", "group_id": 1 }, { "word": "Zwartgat", "group_id": 1 }, { "word": "Nevel", "group_id": 1 },
+    { "word": "Venus", "group_id": 1 }, { "word": "Mars", "group_id": 1 }, { "word": "Jupiter", "group_id": 1 }, { "word": "Saturnus", "group_id": 1 }, { "word": "Ruimtestation", "group_id": 1 },
+
+    /* Groep 2: De Keuken */
+    { "word": "Koekenpan", "group_id": 2 }, { "word": "Garde", "group_id": 2 }, { "word": "Oven", "group_id": 2 }, { "word": "Koelkast", "group_id": 2 }, { "word": "Snijplank", "group_id": 2 },
+    { "word": "Mixer", "group_id": 2 }, { "word": "Vergiet", "group_id": 2 }, { "word": "Spatel", "group_id": 2 }, { "word": "Magnetron", "group_id": 2 }, { "word": "Dunschiller", "group_id": 2 },
+    { "word": "Waterkoker", "group_id": 2 }, { "word": "Braadpan", "group_id": 2 }, { "word": "Soeplepel", "group_id": 2 }, { "word": "Maatbeker", "group_id": 2 }, { "word": "Deegroller", "group_id": 2 },
+    { "word": "Keukenweegschaal", "group_id": 2 }, { "word": "Broodrooster", "group_id": 2 }, { "word": "Vaatwasser", "group_id": 2 }, { "word": "Afzuigkap", "group_id": 2 }, { "word": "Frituurpan", "group_id": 2 },
+    { "word": "Rasp", "group_id": 2 }, { "word": "Kurkentrekker", "group_id": 2 }, { "word": "Blikopener", "group_id": 2 }, { "word": "Pepermolen", "group_id": 2 }, { "word": "Vleesvork", "group_id": 2 },
+
+    /* Groep 3: De Boerderij */
+    { "word": "Tractor", "group_id": 3 }, { "word": "Hooivork", "group_id": 3 }, { "word": "Varken", "group_id": 3 }, { "word": "Schaap", "group_id": 3 }, { "word": "Kippenhok", "group_id": 3 },
+    { "word": "Loods", "group_id": 3 }, { "word": "Maïsveld", "group_id": 3 }, { "word": "Boer", "group_id": 3 }, { "word": "Koe", "group_id": 3 }, { "word": "Paard", "group_id": 3 },
+    { "word": "Schuur", "group_id": 3 }, { "word": "Hooi", "group_id": 3 }, { "word": "Mest", "group_id": 3 }, { "word": "Kalf", "group_id": 3 }, { "word": "Geit", "group_id": 3 },
+    { "word": "Ezel", "group_id": 3 }, { "word": "Ploeg", "group_id": 3 }, { "word": "Melkmachine", "group_id": 3 }, { "word": "Weiland", "group_id": 3 }, { "word": "Silo", "group_id": 3 },
+    { "word": "Landbouw", "group_id": 3 }, { "word": "Oogst", "group_id": 3 }, { "word": "Graan", "group_id": 3 }, { "word": "Kalkoen", "group_id": 3 }, { "word": "Kruiwagen", "group_id": 3 },
+
+    /* Groep 4: Weer & Natuur */
+    { "word": "Onweer", "group_id": 4 }, { "word": "Bliksem", "group_id": 4 }, { "word": "Hagel", "group_id": 4 }, { "word": "Sneeuw", "group_id": 4 }, { "word": "Mist", "group_id": 4 },
+    { "word": "Regenboog", "group_id": 4 }, { "word": "Storm", "group_id": 4 }, { "word": "Windvlaag", "group_id": 4 }, { "word": "Hittegolf", "group_id": 4 }, { "word": "IJzel", "group_id": 4 },
+    { "word": "Tornado", "group_id": 4 }, { "word": "Orkaan", "group_id": 4 }, { "word": "Luchtdruk", "group_id": 4 }, { "word": "Bewolking", "group_id": 4 }, { "word": "Zonneschijn", "group_id": 4 },
+    { "word": "Dauw", "group_id": 4 }, { "word": "Rijp", "group_id": 4 }, { "word": "Motregen", "group_id": 4 }, { "word": "Sneeuwpop", "group_id": 4 }, { "word": "Hogedrukgebied", "group_id": 4 },
+    { "word": "Lagedrukgebied", "group_id": 4 }, { "word": "Temperatuur", "group_id": 4 }, { "word": "Celsius", "group_id": 4 }, { "word": "Wervelwind", "group_id": 4 }, { "word": "Moesson", "group_id": 4 },
+
+    /* Groep 5: Sport */
+    { "word": "Voetbal", "group_id": 5 }, { "word": "Tennisracket", "group_id": 5 }, { "word": "Zwemmen", "group_id": 5 }, { "word": "Hockey", "group_id": 5 }, { "word": "Hardlopen", "group_id": 5 },
+    { "word": "Basketbal", "group_id": 5 }, { "word": "Volleybal", "group_id": 5 }, { "word": "Judo", "group_id": 5 }, { "word": "Wielrennen", "group_id": 5 }, { "word": "Turnen", "group_id": 5 },
+    { "word": "Boksen", "group_id": 5 }, { "word": "Atletiek", "group_id": 5 }, { "word": "Rugby", "group_id": 5 }, { "word": "Golfen", "group_id": 5 }, { "word": "Honkbal", "group_id": 5 },
+    { "word": "Schaatsen", "group_id": 5 }, { "word": "Skiën", "group_id": 5 }, { "word": "Snowboarden", "group_id": 5 }, { "word": "Zeilen", "group_id": 5 }, { "word": "Klimmen", "group_id": 5 },
+    { "word": "Handbal", "group_id": 5 }, { "word": "Badminton", "group_id": 5 }, { "word": "Biljart", "group_id": 5 }, { "word": "Darten", "group_id": 5 }, { "word": "Boogschieten", "group_id": 5 },
+
+    /* Groep 6: Het Lichaam */
+    { "word": "Hersenen", "group_id": 6 }, { "word": "Hartslag", "group_id": 6 }, { "word": "Longen", "group_id": 6 }, { "word": "Schouder", "group_id": 6 }, { "word": "Elleboog", "group_id": 6 },
+    { "word": "Knie", "group_id": 6 }, { "word": "Vingertip", "group_id": 6 }, { "word": "Wervelkolom", "group_id": 6 }, { "word": "Enkel", "group_id": 6 }, { "word": "Slagader", "group_id": 6 },
+    { "word": "Maag", "group_id": 6 }, { "word": "Lever", "group_id": 6 }, { "word": "Nieren", "group_id": 6 }, { "word": "Darmen", "group_id": 6 }, { "word": "Sleutelbeen", "group_id": 6 },
+    { "word": "Heup", "group_id": 6 }, { "word": "Pols", "group_id": 6 }, { "word": "Milt", "group_id": 6 }, { "word": "Alvleesklier", "group_id": 6 }, { "word": "Schrijfhand", "group_id": 6 },
+    { "word": "Oogkas", "group_id": 6 }, { "word": "Trommelvlies", "group_id": 6 }, { "word": "Zenuwstelsel", "group_id": 6 }, { "word": "Spierweefsel", "group_id": 6 }, { "word": "Lymfeklieren", "group_id": 6 },
+
+    /* Groep 7: Fruit */
+    { "word": "Aardbei", "group_id": 7 }, { "word": "Banaan", "group_id": 7 }, { "word": "Sinaasappel", "group_id": 7 }, { "word": "Framboos", "group_id": 7 }, { "word": "Mango", "group_id": 7 },
+    { "word": "Kiwi", "group_id": 7 }, { "word": "Ananas", "group_id": 7 }, { "word": "Citroen", "group_id": 7 }, { "word": "Druif", "group_id": 7 }, { "word": "Watermeloen", "group_id": 7 },
+    { "word": "Appel", "group_id": 7 }, { "word": "Peer", "group_id": 7 }, { "word": "Kers", "group_id": 7 }, { "word": "Perzik", "group_id": 7 }, { "word": "Abrikoos", "group_id": 7 },
+    { "word": "Pruim", "group_id": 7 }, { "word": "Braam", "group_id": 7 }, { "word": "Bosbes", "group_id": 7 }, { "word": "Passievrucht", "group_id": 7 }, { "word": "Granaatappel", "group_id": 7 },
+    { "word": "Limoen", "group_id": 7 }, { "word": "Vijg", "group_id": 7 }, { "word": "Dadel", "group_id": 7 }, { "word": "Papaja", "group_id": 7 }, { "word": "Mandarijn", "group_id": 7 },
+
+    /* Groep 8: Kleding & Mode */
+    { "word": "Spijkerbroek", "group_id": 8 }, { "word": "Regenjas", "group_id": 8 }, { "word": "Wintertrui", "group_id": 8 }, { "word": "Sokken", "group_id": 8 }, { "word": "Handschoen", "group_id": 8 },
+    { "word": "Zonnebril", "group_id": 8 }, { "word": "Gordel", "group_id": 8 }, { "word": "Sportschoen", "group_id": 8 }, { "word": "Hoed", "group_id": 8 }, { "word": "T-shirt", "group_id": 8 },
+    { "word": "Blouse", "group_id": 8 }, { "word": "Rok", "group_id": 8 }, { "word": "Jurk", "group_id": 8 }, { "word": "Kostuum", "group_id": 8 }, { "word": "Stropdas", "group_id": 8 },
+    { "word": "Muts", "group_id": 8 }, { "word": "Sjaal", "group_id": 8 }, { "word": "Ondergoed", "group_id": 8 }, { "word": "Vest", "group_id": 8 }, { "word": "Pyjama", "group_id": 8 },
+    { "word": "Laarzen", "group_id": 8 }, { "word": "Sandalen", "group_id": 8 }, { "word": "Badpak", "group_id": 8 }, { "word": "Overhemd", "group_id": 8 }, { "word": "Legging", "group_id": 8 },
+
+    /* Groep 9: Muziekinstrumenten */
+    { "word": "Gitaar", "group_id": 9 }, { "word": "Piano", "group_id": 9 }, { "word": "Drumstel", "group_id": 9 }, { "word": "Trompet", "group_id": 9 }, { "word": "Viool", "group_id": 9 },
+    { "word": "Saxofoon", "group_id": 9 }, { "word": "Dwarsfluit", "group_id": 9 }, { "word": "Cello", "group_id": 9 }, { "word": "Harp", "group_id": 9 }, { "word": "Accordeon", "group_id": 9 },
+    { "word": "Klarinet", "group_id": 9 }, { "word": "Hobo", "group_id": 9 }, { "word": "Basgitaar", "group_id": 9 }, { "word": "Keyboard", "group_id": 9 }, { "word": "Mondharmonica", "group_id": 9 },
+    { "word": "Trombone", "group_id": 9 }, { "word": "Blokfluit", "group_id": 9 }, { "word": "Xylofoon", "group_id": 9 }, { "word": "Banjo", "group_id": 9 }, { "word": "Mandoline", "group_id": 9 },
+    { "word": "Contrabas", "group_id": 9 }, { "word": "Pauken", "group_id": 9 }, { "word": "Triangel", "group_id": 9 }, { "word": "Orgel", "group_id": 9 }, { "word": "Doedelzak", "group_id": 9 },
+
+    /* Groep 10: Vervoer */
+    { "word": "Vliegtuig", "group_id": 10 }, { "word": "Helikopter", "group_id": 10 }, { "word": "Onderzeeër", "group_id": 10 }, { "word": "Bakfiets", "group_id": 10 }, { "word": "Vrachtwagen", "group_id": 10 },
+    { "word": "Treinstel", "group_id": 10 }, { "word": "Motorfiets", "group_id": 10 }, { "word": "Zeilboot", "group_id": 10 }, { "word": "Scooter", "group_id": 10 }, { "word": "Luchtballon", "group_id": 10 },
+    { "word": "Auto", "group_id": 10 }, { "word": "Tram", "group_id": 10 }, { "word": "Metro", "group_id": 10 }, { "word": "Liner", "group_id": 10 }, { "word": "Speedboot", "group_id": 10 },
+    { "word": "Skateboard", "group_id": 10 }, { "word": "Step", "group_id": 10 }, { "word": "Hovercraft", "group_id": 10 }, { "word": "Zweefvliegtuig", "group_id": 10 }, { "word": "Tandem", "group_id": 10 },
+    { "word": "Brandweerwagen", "group_id": 10 }, { "word": "Ambulance", "group_id": 10 }, { "word": "Politieauto", "group_id": 10 }, { "word": "Veerboot", "group_id": 10 }, { "word": "Raketschip", "group_id": 10 },
+
+    /* Groep 11: Zoogdieren */
+    { "word": "Olifant", "group_id": 11 }, { "word": "Tijger", "group_id": 11 }, { "word": "Leeuw", "group_id": 11 }, { "word": "Giraffe", "group_id": 11 }, { "word": "Zebra", "group_id": 11 },
+    { "word": "Nijlpaard", "group_id": 11 }, { "word": "Neushoorn", "group_id": 11 }, { "word": "Aap", "group_id": 11 }, { "word": "Beer", "group_id": 11 }, { "word": "Wolf", "group_id": 11 },
+    { "word": "Vos", "group_id": 11 }, { "word": "Konijn", "group_id": 11 }, { "word": "Hert", "group_id": 11 }, { "word": "Kangoeroe", "group_id": 11 }, { "word": "Koala", "group_id": 11 },
+    { "word": "Panda", "group_id": 11 }, { "word": "Walvis", "group_id": 11 }, { "word": "Dolfijn", "group_id": 11 }, { "word": "Zeehond", "group_id": 11 }, { "word": "Vleermuis", "group_id": 11 },
+    { "word": "Egel", "group_id": 11 }, { "word": "Eekhoorn", "group_id": 11 }, { "word": "Hamster", "group_id": 11 }, { "word": "Cavia", "group_id": 11 }, { "word": "Luipaard", "group_id": 11 },
+
+    /* Groep 12: Beroepen */
+    { "word": "Leraar", "group_id": 12 }, { "word": "Arts", "group_id": 12 }, { "word": "Brandweerman", "group_id": 12 }, { "word": "Politieagent", "group_id": 12 }, { "word": "Bakker", "group_id": 12 },
+    { "word": "Slager", "group_id": 12 }, { "word": "Timmerman", "group_id": 12 }, { "word": "Schilder", "group_id": 12 }, { "word": "Kok", "group_id": 12 }, { "word": "Piloot", "group_id": 12 },
+    { "word": "Verpleegkundige", "group_id": 12 }, { "word": "Advocaat", "group_id": 12 }, { "word": "Boer", "group_id": 12 }, { "word": "Kapper", "group_id": 12 }, { "word": "Journalist", "group_id": 12 },
+    { "word": "Architect", "group_id": 12 }, { "word": "Programmeur", "group_id": 12 }, { "word": "Boekhouder", "group_id": 12 }, { "word": "Vuilnisman", "group_id": 12 }, { "word": "Chauffeur", "group_id": 12 },
+    { "word": "Kelner", "group_id": 12 }, { "word": "Visser", "group_id": 12 }, { "word": "Wetenschapper", "group_id": 12 }, { "word": "Fotograaf", "group_id": 12 }, { "word": "Dierenarts", "group_id": 12 },
+
+    /* Groep 13: Gereedschap */
+    { "word": "Hamer", "group_id": 13 }, { "word": "Schroevendraaier", "group_id": 13 }, { "word": "Zaag", "group_id": 13 }, { "word": "Tang", "group_id": 13 }, { "word": "Boormachine", "group_id": 13 },
+    { "word": "Waterpas", "group_id": 13 }, { "word": "Rolmaat", "group_id": 13 }, { "word": "Beitel", "group_id": 13 }, { "word": "Bankschroef", "group_id": 13 }, { "word": "Inbussleutel", "group_id": 13 },
+    { "word": "Moersleutel", "group_id": 13 }, { "word": "Schuurmachine", "group_id": 13 }, { "word": "Lijmpistool", "group_id": 13 }, { "word": "Slijptol", "group_id": 13 }, { "word": "Bijl", "group_id": 13 },
+    { "word": "Vijl", "group_id": 13 }, { "word": "Nijptang", "group_id": 13 }, { "word": "Schroef", "group_id": 13 }, { "word": "Spijker", "group_id": 13 }, { "word": "Moer", "group_id": 13 },
+    { "word": "Bout", "group_id": 13 }, { "word": "Striptang", "group_id": 13 }, { "word": "Soldeerbout", "group_id": 13 }, { "word": "Werkbank", "group_id": 13 }, { "word": "Plamuurmes", "group_id": 13 },
+
+    /* Groep 14: Planten & Bomen */
+    { "word": "Eik", "group_id": 14 }, { "word": "Beuk", "group_id": 14 }, { "word": "Berk", "group_id": 14 }, { "word": "Denneboom", "group_id": 14 }, { "word": "Wilg", "group_id": 14 },
+    { "word": "Roos", "group_id": 14 }, { "word": "Tulp", "group_id": 14 }, { "word": "Zonnebloem", "group_id": 14 }, { "word": "Madeliefje", "group_id": 14 }, { "word": "Narcis", "group_id": 14 },
+    { "word": "Varen", "group_id": 14 }, { "word": "Mos", "group_id": 14 }, { "word": "Klimop", "group_id": 14 }, { "word": "Lavendel", "group_id": 14 }, { "word": "Cactus", "group_id": 14 },
+    { "word": "Palmboom", "group_id": 14 }, { "word": "Bamboe", "group_id": 14 }, { "word": "Orchidee", "group_id": 14 }, { "word": "Brandnetel", "group_id": 14 }, { "word": "Klaproos", "group_id": 14 },
+    { "word": "Viooltje", "group_id": 14 }, { "word": "Paardenbloem", "group_id": 14 }, { "word": "Esdoorn", "group_id": 14 }, { "word": "Kastanje", "group_id": 14 }, { "word": "Populier", "group_id": 14 },
+
+    /* Groep 15: Computer & Tech */
+    { "word": "Laptop", "group_id": 15 }, { "word": "Toetsenbord", "group_id": 15 }, { "word": "Muis", "group_id": 15 }, { "word": "Beeldscherm", "group_id": 15 }, { "word": "Printer", "group_id": 15 },
+    { "word": "Processor", "group_id": 15 }, { "word": "Hardeschijf", "group_id": 15 }, { "word": "Router", "group_id": 15 }, { "word": "Software", "group_id": 15 }, { "word": "Internet", "group_id": 15 },
+    { "word": "Algoritme", "group_id": 15 }, { "word": "Browser", "group_id": 15 }, { "word": "Wachtwoord", "group_id": 15 }, { "word": "Database", "group_id": 15 }, { "word": "Netwerk", "group_id": 15 },
+    { "word": "Scanner", "group_id": 15 }, { "word": "Webcam", "group_id": 15 }, { "word": "Luidspreker", "group_id": 15 }, { "word": "Microfoon", "group_id": 15 }, { "word": "USB-stick", "group_id": 15 },
+    { "word": "Firewall", "group_id": 15 }, { "word": "Pixel", "group_id": 15 }, { "word": "Moederbord", "group_id": 15 }, { "word": "Cloud", "group_id": 15 }, { "word": "Batterij", "group_id": 15 },
+
+    /* Groep 16: Meubels */
+    { "word": "Bank", "group_id": 16 }, { "word": "Stoel", "group_id": 16 }, { "word": "Tafel", "group_id": 16 }, { "word": "Kledingkast", "group_id": 16 }, { "word": "Bed", "group_id": 16 },
+    { "word": "Boekenkast", "group_id": 16 }, { "word": "Bureau", "group_id": 16 }, { "word": "Nachtkastje", "group_id": 16 }, { "word": "Dressoir", "group_id": 16 }, { "word": "Fauteuil", "group_id": 16 },
+    { "word": "Salontafel", "group_id": 16 }, { "word": "Eetkamerstoel", "group_id": 16 }, { "word": "Kapstok", "group_id": 16 }, { "word": "Spiegel", "group_id": 16 }, { "word": "Gordijn", "group_id": 16 },
+    { "word": "Tapijt", "group_id": 16 }, { "word": "Vloerlamp", "group_id": 16 }, { "word": "Kussen", "group_id": 16 }, { "word": "Matras", "group_id": 16 }, { "word": "Wandplank", "group_id": 16 },
+    { "word": "TV-meubel", "group_id": 16 }, { "word": "Poef", "group_id": 16 }, { "word": "Ladekast", "group_id": 16 }, { "word": "Bureaustoel", "group_id": 16 }, { "word": "Vitrinekast", "group_id": 16 },
+
+    /* Groep 17: Groenten */
+    { "word": "Wortel", "group_id": 17 }, { "word": "Bloemkool", "group_id": 17 }, { "word": "Broccoli", "group_id": 17 }, { "word": "Spinazie", "group_id": 17 }, { "word": "Sla", "group_id": 17 },
+    { "word": "Komkommer", "group_id": 17 }, { "word": "Tomaat", "group_id": 17 }, { "word": "Paprika", "group_id": 17 }, { "word": "Ui", "group_id": 17 }, { "word": "Knoflook", "group_id": 17 },
+    { "word": "Prei", "group_id": 17 }, { "word": "Aubergine", "group_id": 17 }, { "word": "Courgette", "group_id": 17 }, { "word": "Asperge", "group_id": 17 }, { "word": "Spruitjes", "group_id": 17 },
+    { "word": "Pompoen", "group_id": 17 }, { "word": "Rodekool", "group_id": 17 }, { "word": "Radijs", "group_id": 17 }, { "word": "Biet", "group_id": 17 }, { "word": "Maïs", "group_id": 17 },
+    { "word": "Erwt", "group_id": 17 }, { "word": "Bonen", "group_id": 17 }, { "word": "Selderij", "group_id": 17 }, { "word": "Venkel", "group_id": 17 }, { "word": "Artisjok", "group_id": 17 },
+
+    /* Groep 18: Edelstenen & Metalen */
+    { "word": "Diamant", "group_id": 18 }, { "word": "Goud", "group_id": 18 }, { "word": "Zilver", "group_id": 18 }, { "word": "Platina", "group_id": 18 }, { "word": "Koper", "group_id": 18 },
+    { "word": "Brons", "group_id": 18 }, { "word": "IJzer", "group_id": 18 }, { "word": "Robijn", "group_id": 18 }, { "word": "Saffier", "group_id": 18 }, { "word": "Smaragd", "group_id": 18 },
+    { "word": "Amethist", "group_id": 18 }, { "word": "Topaas", "group_id": 18 }, { "word": "Opaal", "group_id": 18 }, { "word": "Staal", "group_id": 18 }, { "word": "Aluminium", "group_id": 18 },
+    { "word": "Lood", "group_id": 18 }, { "word": "Zink", "group_id": 18 }, { "word": "Kwik", "group_id": 18 }, { "word": "Nikkel", "group_id": 18 }, { "word": "Messing", "group_id": 18 },
+    { "word": "Titaan", "group_id": 18 }, { "word": "Kristal", "group_id": 18 }, { "word": "Parel", "group_id": 18 }, { "word": "Turkoois", "group_id": 18 }, { "word": "Barnsteen", "group_id": 18 },
+
+    /* Groep 19: Vogels */
+    { "word": "Arend", "group_id": 19 }, { "word": "Mus", "group_id": 19 }, { "word": "Merel", "group_id": 19 }, { "word": "Vink", "group_id": 19 }, { "word": "Ekster", "group_id": 19 },
+    { "word": "Kraai", "group_id": 19 }, { "word": "Duif", "group_id": 19 }, { "word": "Uil", "group_id": 19 }, { "word": "Valk", "group_id": 19 }, { "word": "Specht", "group_id": 19 },
+    { "word": "Reiger", "group_id": 19 }, { "word": "Ooievaar", "group_id": 19 }, { "word": "Pelikaan", "group_id": 19 }, { "word": "Pinguïn", "group_id": 19 }, { "word": "Struisvogel", "group_id": 19 },
+    { "word": "Zwaan", "group_id": 19 }, { "word": "Gans", "group_id": 19 }, { "word": "Eend", "group_id": 19 }, { "word": "Papegaai", "group_id": 19 }, { "word": "Kanarie", "group_id": 19 },
+    { "word": "Kolibrie", "group_id": 19 }, { "word": "IJsvogel", "group_id": 19 }, { "word": "Fazant", "group_id": 19 }, { "word": "Patrijs", "group_id": 19 }, { "word": "Kwartel", "group_id": 19 },
+
+    /* Groep 20: Waterdieren */
+    { "word": "Haai", "group_id": 20 }, { "word": "Walvis", "group_id": 20 }, { "word": "Dolfijn", "group_id": 20 }, { "word": "Inktvis", "group_id": 20 }, { "word": "Octopus", "group_id": 20 },
+    { "word": "Zeeschildpad", "group_id": 20 }, { "word": "Krab", "group_id": 20 }, { "word": "Kreeft", "group_id": 20 }, { "word": "Garnaal", "group_id": 20 }, { "word": "Zeester", "group_id": 20 },
+    { "word": "Zeepaardje", "group_id": 20 }, { "word": "Kwal", "group_id": 20 }, { "word": "Rog", "group_id": 20 }, { "word": "Paling", "group_id": 20 }, { "word": "Zalm", "group_id": 20 },
+    { "word": "Forel", "group_id": 20 }, { "word": "Haring", "group_id": 20 }, { "word": "Kabeljauw", "group_id": 20 }, { "word": "Tonijn", "group_id": 20 }, { "word": "Snoek", "group_id": 20 },
+    { "word": "Karper", "group_id": 20 }, { "word": "Mossel", "group_id": 20 }, { "word": "Oester", "group_id": 20 }, { "word": "Anemoon", "group_id": 20 }, { "word": "Koraal", "group_id": 20 },
+
+    /* Groep 21: Kantoorspullen */
+    { "word": "Pen", "group_id": 21 }, { "word": "Potlood", "group_id": 21 }, { "word": "Gum", "group_id": 21 }, { "word": "Liniaal", "group_id": 21 }, { "word": "Schrift", "group_id": 21 },
+    { "word": "Notitieblok", "group_id": 21 }, { "word": "Map", "group_id": 21 }, { "word": "Ordner", "group_id": 21 }, { "word": "Paperclip", "group_id": 21 }, { "word": "Nietmachine", "group_id": 21 },
+    { "word": "Perforator", "group_id": 21 }, { "word": "Plakband", "group_id": 21 }, { "word": "Lijmstift", "group_id": 21 }, { "word": "Marker", "group_id": 21 }, { "word": "Rekenmachine", "group_id": 21 },
+    { "word": "Enveloppe", "group_id": 21 }, { "word": "Postzegel", "group_id": 21 }, { "word": "Kalender", "group_id": 21 }, { "word": "Agenda", "group_id": 21 }, { "word": "Bureaulegger", "group_id": 21 },
+    { "word": "Snelhechter", "group_id": 21 }, { "word": "Correctieroller", "group_id": 21 }, { "word": "Punaise", "group_id": 21 }, { "word": "Elastiekje", "group_id": 21 }, { "word": "Prullenbak", "group_id": 21 },
+
+    /* Groep 22: Insecten */
+    { "word": "Bij", "group_id": 22 }, { "word": "Wesp", "group_id": 22 }, { "word": "Mier", "group_id": 22 }, { "word": "Vlieg", "group_id": 22 }, { "word": "Mug", "group_id": 22 },
+    { "word": "Vlinder", "group_id": 22 }, { "word": "Libelle", "group_id": 22 }, { "word": "Kever", "group_id": 22 }, { "word": "Lieveheersbeestje", "group_id": 22 }, { "word": "Sprinkhaan", "group_id": 22 },
+    { "word": "Krekel", "group_id": 22 }, { "word": "Hommel", "group_id": 22 }, { "word": "Vlo", "group_id": 22 }, { "word": "Teek", "group_id": 22 }, { "word": "Mot", "group_id": 22 },
+    { "word": "Rups", "group_id": 22 }, { "word": "Spin", "group_id": 22 }, { "word": "Schorpioen", "group_id": 22 }, { "word": "Duizendpoot", "group_id": 22 }, { "word": "Pissebed", "group_id": 22 },
+    { "word": "Kakkerlak", "group_id": 22 }, { "word": "Mestkever", "group_id": 22 }, { "word": "Wandelendetak", "group_id": 22 }, { "word": "Horzel", "group_id": 22 }, { "word": "Cicade", "group_id": 22 },
+
+    /* Groep 23: Dranken */
+    { "word": "Koffie", "group_id": 23 }, { "word": "Thee", "group_id": 23 }, { "word": "Water", "group_id": 23 }, { "word": "Melk", "group_id": 23 }, { "word": "Limonade", "group_id": 23 },
+    { "word": "Cola", "group_id": 23 }, { "word": "Vruchtensap", "group_id": 23 }, { "word": "Wijn", "group_id": 23 }, { "word": "Bier", "group_id": 23 }, { "word": "Whisky", "group_id": 23 },
+    { "word": "Wodka", "group_id": 23 }, { "word": "Champagne", "group_id": 23 }, { "word": "Chocolademelk", "group_id": 23 }, { "word": "IJsthee", "group_id": 23 }, { "word": "Smoothie", "group_id": 23 },
+    { "word": "Bubbels", "group_id": 23 }, { "word": "Cognac", "group_id": 23 }, { "word": "Jenever", "group_id": 23 }, { "word": "Tonic", "group_id": 23 }, { "word": "Gingerale", "group_id": 23 },
+    { "word": "Karnemelk", "group_id": 23 }, { "word": "Espresso", "group_id": 23 }, { "word": "Cappuccino", "group_id": 23 }, { "word": "Cocktail", "group_id": 23 }, { "word": "Mocktail", "group_id": 23 },
+
+    /* Groep 24: Eten / Gerechten */
+    { "word": "Pizza", "group_id": 24 }, { "word": "Pasta", "group_id": 24 }, { "word": "Pannenkoek", "group_id": 24 }, { "word": "Hutspot", "group_id": 24 }, { "word": "Stamppot", "group_id": 24 },
+    { "word": "Soep", "group_id": 24 }, { "word": "Salade", "group_id": 24 }, { "word": "Biefstuk", "group_id": 24 }, { "word": "Lasagne", "group_id": 24 }, { "word": "Risotto", "group_id": 24 },
+    { "word": "Hamburger", "group_id": 24 }, { "word": "Friet", "group_id": 24 }, { "word": "Kroket", "group_id": 24 }, { "word": "Nasi", "group_id": 24 }, { "word": "Bami", "group_id": 24 },
+    { "word": "Sushi", "group_id": 24 }, { "word": "Taco", "group_id": 24 }, { "word": "Burrito", "group_id": 24 }, { "word": "Omelet", "group_id": 24 }, { "word": "Quiche", "group_id": 24 },
+    { "word": "Curry", "group_id": 24 }, { "word": "Paella", "group_id": 24 }, { "word": "Roti", "group_id": 24 }, { "word": " Couscous", "group_id": 24 }, { "word": "Spaghetti", "group_id": 24 },
+
+    /* Groep 25: Gebouwen & Architectuur */
+    { "word": "Huis", "group_id": 25 }, { "word": "Kerk", "group_id": 25 }, { "word": "Toren", "group_id": 25 }, { "word": "Kasteel", "group_id": 25 }, { "word": "Paleis", "group_id": 25 },
+    { "word": "Flat", "group_id": 25 }, { "word": "Wolkenkrabber", "group_id": 25 }, { "word": "Museum", "group_id": 25 }, { "word": "Bibliotheek", "group_id": 25 }, { "word": "Ziekenhuis", "group_id": 25 },
+    { "word": "School", "group_id": 25 }, { "word": "Fabriek", "group_id": 25 }, { "word": "Station", "group_id": 25 }, { "word": "Vuurtoren", "group_id": 25 }, { "word": "Molen", "group_id": 25 },
+    { "word": "Brug", "group_id": 25 }, { "word": "Tunnel", "group_id": 25 }, { "word": "Stadion", "group_id": 25 }, { "word": "Theater", "group_id": 25 }, { "word": "Bioscoop", "group_id": 25 },
+    { "word": "Tempel", "group_id": 25 }, { "word": "Moskee", "group_id": 25 }, { "word": "Synagoge", "group_id": 25 }, { "word": "Gevangenis", "group_id": 25 }, { "word": "Raadhuis", "group_id": 25 }
+  ]
+}
